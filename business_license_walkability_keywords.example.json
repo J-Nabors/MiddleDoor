@@ -1,0 +1,54 @@
+{
+  "daily_needs": {
+    "weight": 3,
+    "keywords": [
+      "grocery",
+      "supermarket",
+      "market",
+      "pharmacy",
+      "laundromat",
+      "hardware"
+    ]
+  },
+  "food_and_drink": {
+    "weight": 2,
+    "keywords": [
+      "restaurant",
+      "cafe",
+      "coffee",
+      "bakery",
+      "bar"
+    ]
+  },
+  "third_places_and_community": {
+    "weight": 3,
+    "keywords": [
+      "library",
+      "bookstore",
+      "community center",
+      "museum",
+      "gallery",
+      "theater"
+    ]
+  },
+  "auto_oriented": {
+    "weight": -3,
+    "keywords": [
+      "gas station",
+      "auto",
+      "car wash",
+      "parking",
+      "dealership"
+    ]
+  },
+  "industrial_logistics": {
+    "weight": -2,
+    "keywords": [
+      "warehouse",
+      "distribution",
+      "industrial",
+      "manufacturing",
+      "logistics"
+    ]
+  }
+}
