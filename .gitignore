@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 *.pyc
+BusinessLicenses/Output/biz_license_terms_scored.csv
+BusinessLicenses/Output/biz-license-terms-scored.gpkg
